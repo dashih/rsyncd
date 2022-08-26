@@ -1,2 +1,2 @@
 # rsyncd
-rsyncd docker image
+https://hub.docker.com/repository/docker/dannyshih/rsyncd
